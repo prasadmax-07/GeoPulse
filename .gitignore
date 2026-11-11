@@ -218,3 +218,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# GeoPulse generated datasets
+data/raw/*
+data/processed/*
+data/synthetic/*.csv
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+.venv/
+
+# Generated EDA reports (keep visualizations)
+reports/eda/*.csv
