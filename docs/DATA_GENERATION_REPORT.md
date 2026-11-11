@@ -89,3 +89,30 @@ processing, spatial joins and cloud data storage.
 
 Note: All generated mobility data is synthetic and
 does not represent actual individual movement.
+
+## Data Quality Validation Results
+
+The synthetic GPS mobility dataset was validated using `validate_gps_data.py`.
+
+**Dataset summary**
+- Total records: 100,000
+- Unique devices: 10,000
+- Total columns: 5
+- Time coverage: 11 November 2026, 00:00:09 to 23:59:49
+- Location zones: BKC, Andheri, Dadar, Fort and Powai
+
+**Validation results**
+- Missing values: 0
+- Duplicate records: 0
+- Invalid latitude records: 0
+- Invalid longitude records: 0
+
+**Key observations**
+- The dataset contains an average of 10 GPS records per device.
+- Peak activity occurred at 8 AM with 10,203 GPS records.
+- A second peak occurred at 6 PM with 10,110 GPS records.
+- The hourly distribution reflects the intended simulated morning and evening commute patterns.
+
+**Conclusion**
+
+The dataset passed the implemented structural and data quality checks. It is suitable for the next stage of exploratory spatial analysis. Realistic device movement and store-visit identification will require additional processing.
