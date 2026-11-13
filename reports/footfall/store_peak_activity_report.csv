@@ -1,0 +1,11 @@
+StoreID,StoreName,LocationZone,Total_GPS_Pings,Activity_Rank,Peak_Hour,Peak_Hour_Pings
+STR001,GeoPulse BKC 01,BKC,17733,1,8,2646
+STR005,GeoPulse Andheri 01,Andheri,16467,2,18,1810
+STR002,GeoPulse BKC 02,BKC,16147,3,8,2384
+STR009,GeoPulse Dadar 01,Dadar,15311,4,18,2262
+STR006,GeoPulse Andheri 02,Andheri,14935,5,18,1631
+STR010,GeoPulse Dadar 02,Dadar,13908,6,18,2045
+STR003,GeoPulse Fort 01,Fort,12803,7,8,1609
+STR007,GeoPulse Powai 01,Powai,12271,8,18,1147
+STR004,GeoPulse Fort 02,Fort,11616,9,8,1443
+STR008,GeoPulse Powai 02,Powai,11107,10,18,1048
