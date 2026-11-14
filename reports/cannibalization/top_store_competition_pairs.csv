@@ -1,0 +1,6 @@
+LocationZone,StoreID_1,StoreName_1,StoreID_2,StoreName_2,Geographical_Overlap_Pct,Devices_Store_1,Devices_Store_2,Shared_Devices,Shared_Pct_Store_1,Shared_Pct_Store_2,Smaller_Store_Shared_Pct,Jaccard_Similarity_Pct,Competition_Indicator_Rank
+BKC,STR001,GeoPulse BKC 01,STR002,GeoPulse BKC 02,64.49,8617,8260,7942,92.17,96.15,96.15,88.89,1
+Andheri,STR005,GeoPulse Andheri 01,STR006,GeoPulse Andheri 02,64.5,8386,8067,7700,91.82,95.45,95.45,87.97,2
+Dadar,STR009,GeoPulse Dadar 01,STR010,GeoPulse Dadar 02,64.49,8080,7735,7338,90.82,94.87,94.87,86.56,3
+Fort,STR003,GeoPulse Fort 01,STR004,GeoPulse Fort 02,64.48,7458,7095,6682,89.6,94.18,94.18,84.89,4
+Powai,STR007,GeoPulse Powai 01,STR008,GeoPulse Powai 02,64.5,7337,6956,6542,89.16,94.05,94.05,84.4,5
